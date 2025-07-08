@@ -1,4 +1,4 @@
-# Traffic_Volume_Prediction_Challenge
+# Traffic Volume Prediction Challenge
 This repository contains my solution for MachineHack's 'The Great Indian Hiring Challenge 2025'.\
 The problem statement is to accurately predict the volume of Traffic given different climatic conditions like Temperature, cloud cover etc.\
 Also, the training data spans between October 2008 and June 2014 (on hourly basis) while the test data spans the next three months (July to Septmeber) of 2014. \
